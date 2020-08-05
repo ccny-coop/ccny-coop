@@ -1,3 +1,9 @@
+![co-op logo](./co-op%20logo%204.jpg)
+# CCNY - Computer Science CO-OP
+
+## About
+This page has a detailed information about the CCNY Computer Science program aimed to help Computer Science Students to find internships and jobs. 
+
 ### Hi there 👋
 
 <!--
