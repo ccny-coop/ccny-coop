@@ -1,4 +1,4 @@
-![co-op logo](./coop_logo.jpg)
+![co-op logo](coop_logo.jpg)
 # CCNY - Computer Science CO-OP
 
 ## About
