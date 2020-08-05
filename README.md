@@ -4,7 +4,11 @@
 ## About
 This page has a detailed information about the CCNY Computer Science program aimed to help Computer Science Students to find internships and jobs. 
 
-### Hi there 👋
+## Slack Channel 💬
+The slack channel for the co-op program is `Here goes the link for that channel`.
+
+## Linkedin 📫
+Please follow the recent updates on our Linkedin. `Here goes the link for Linkedin`
 
 <!--
 **ccny-coop/ccny-coop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
